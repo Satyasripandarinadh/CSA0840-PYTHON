@@ -7,3 +7,6 @@
 6.max area
 7.count sorted vowel string
 8.valid number
+9.
+10.modify string
+11.leap year
