@@ -13,4 +13,4 @@ print(ob.isNumber("e"))
 print(ob.isNumber(""))
 print(ob.isNumber("."))
 print(ob.isNumber("%"))
-Footer
+
