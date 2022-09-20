@@ -7,7 +7,4 @@ def climbStairs(n):
  return steps[n - 1]
 n=3
 print(climbStairs(n))
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
