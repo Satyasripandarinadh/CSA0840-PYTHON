@@ -10,6 +10,7 @@ vowels
 valid number
 guests
 modify string
+
 DAY 2
 
 climbing
@@ -22,6 +23,7 @@ Generate Parentheses
 string s and a
 seasons
 remove words
+
 DAY 3
 
 trading
@@ -34,6 +36,7 @@ Permutations
 anagram
 string s and a
 operations required
+
 DAY 4
 
 indexed
@@ -46,4 +49,8 @@ roman to int
 scramble strings
 student
 smaller than the current number
-DAY 5 1.Robert problem
+
+DAY 5 
+
+Robert problem
+perfect square number
