@@ -58,4 +58,8 @@ bonus salary,
 perfect square,
 robert problem,
 max index,
-longest substring
+longest substring,
+NxN,
+sum of elements in nth row,
+peak element
+
