@@ -53,7 +53,7 @@ scramble string.
 
 DAY 5 
 
-length of string,
+last word length,
 bonus salary,
 perfect square,
 robert problem,
