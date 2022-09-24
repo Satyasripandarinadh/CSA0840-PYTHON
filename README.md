@@ -53,5 +53,8 @@ scramble string.
 
 DAY 5 
 
-Robert problem,
-perfect square number
+length of string,
+bonus salary,
+perfect square,
+robert problem,
+max index
